@@ -1,0 +1,106 @@
+
+/* Center align modal title */
+.modal-title {
+    text-align: center;
+}
+
+/* Responsive images */
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Styling for service boxes */
+.service-box {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.service-box i {
+    color: #007bff;
+}
+
+.service-box h5 {
+    margin-bottom: 10px;
+}
+
+/* Footer styling */
+footer {
+    text-align: center;
+    background-color: #343a40;
+    color: #fff;
+}
+
+footer p {
+    margin-bottom: 0;
+}
+
+/* Adjust margins for social media icons */
+.text-center .fab {
+    margin: 0 5px;
+}
+
+
+
+
+.btn-meet-finn {
+    background-color: #000000; /* Black color */
+    color: #1a1919; /* White text color */
+}
+
+
+
+
+
+
+.stud-services-section {
+    background-color: #f9f9f9;
+    padding: 60px 0;
+}
+
+.stud-services-section h2 {
+    margin-bottom: 40px;
+    font-size: 2.5em;
+    color: #333;
+}
+
+.stud-services-section img {
+    max-width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.stud-services-section h3 {
+    font-size: 2em;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.stud-services-section p {
+    font-size: 1.1em;
+    color: #666;
+    line-height: 1.6;
+}
+
+.stud-services-section ul {
+    margin-top: 20px;
+    padding-left: 20px;
+}
+
+.stud-services-section ul li {
+    margin-bottom: 10px;
+    font-size: 1.1em;
+    color: #555;
+}
+
+.stud-services-section a.text-dark {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.stud-services-section a.text-dark:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,48 @@
+.stud-services-section {
+    background-color: #f9f9f9;
+    padding: 60px 0;
+}
+
+.stud-services-section h2 {
+    margin-bottom: 40px;
+    font-size: 2.5em;
+    color: #333;
+}
+
+.stud-services-section img {
+    max-width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.stud-services-section h3 {
+    font-size: 2em;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.stud-services-section p {
+    font-size: 1.1em;
+    color: #666;
+    line-height: 1.6;
+}
+
+.stud-services-section ul {
+    margin-top: 20px;
+    padding-left: 20px;
+}
+
+.stud-services-section ul li {
+    margin-bottom: 10px;
+    font-size: 1.1em;
+    color: #555;
+}
+
+.stud-services-section a.text-dark {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.stud-services-section a.text-dark:hover {
+    text-decoration: underline;
+}
